@@ -9,3 +9,4 @@ tensorflow
 tensorflow_hub
 scikit-learn
 joblib
+gdown==4.7.1
