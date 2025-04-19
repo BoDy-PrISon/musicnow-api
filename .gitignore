@@ -1,0 +1,19 @@
+# IDE и конфигурации
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Модели и данные
+Models/genre_model.h5
+fma_metadata/
+fma_metadata.zip
+uploads/
+
+
+# Аудио и медиа
+*.mp3

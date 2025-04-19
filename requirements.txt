@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+librosa
+numpy
+soundfile
+pydub
+tensorflow
+tensorflow_hub
+scikit-learn
+joblib
